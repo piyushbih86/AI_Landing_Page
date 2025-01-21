@@ -70,3 +70,4 @@ npm install
 ```bash
 npm run dev
 ```
+**Live Deploy link (Vercel)** [Brainwave](https://ai-landing-page-tau.vercel.app/)
